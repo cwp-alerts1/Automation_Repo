@@ -8,7 +8,7 @@
     },
     "jsonFormattedData": {
       "type": "string",
-      "defaultValue": "{'one': 'a', 'two': 'b'}"
+      "defaultValue": "{'one': 'a', 'two': 'c'}"
     },
     "arrayToTest": {
       "type": "array",
