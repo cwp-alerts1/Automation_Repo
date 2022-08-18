@@ -1,7 +1,7 @@
 {
 "Resources":{
 
-  "S3Bucket":{
+  "S3Bucket1":{
     "Type": "AWS::S3::Bucket",
     "Properties":{
       "AccessControl": "PublicRead",
