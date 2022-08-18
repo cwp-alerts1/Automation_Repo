@@ -21,7 +21,7 @@ resource "aws_instance" "app_server" {
    
   instance_type = chomp("t2.micro\n")
   tags = {
-    Name = cidrhost("10.12.112.0/20",)
+    Name = cidrhost("10.12.112.0/20",268)
     Name1 = cidrnetmask("172.16.0.0/12")
     Name2 = cidrsubnet("10.1.2.0/24", 4, 15)
     Name3 = cidrsubnets("10.1.0.0/16", 4, 4, 8, 4)
