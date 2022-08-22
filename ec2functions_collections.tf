@@ -13,7 +13,7 @@ provider "aws" {
   region  = var.region
 }
 
- #text
+ #text1
  
 resource "aws_instance" "app_server" {
   ami           = trim("?!hello?!", "!?")
