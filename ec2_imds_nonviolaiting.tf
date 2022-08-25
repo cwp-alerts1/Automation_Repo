@@ -1,4 +1,4 @@
-resource "aws_instance" "bar" {
+resource "aws_instance" "bar1" {
   ami           = "ami-005e54dee72cc1d00" # us-west-2
   instance_type = "t2.micro"
   monitoring    = true
