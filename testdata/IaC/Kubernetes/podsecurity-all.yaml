@@ -1,7 +1,7 @@
 apiVersion: policy/v1	
 kind: PodSecurityPolicy
 metadata:
-  name: privileged
+  name: privileged1
   annotations: 
    zpc-skip-policy: "ZS-K8S-00006:new comment"
 spec:
