@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "noncompliant_dev_win_web_app_name": {
-            "defaultValue": "noncompliant-win-apiapp",
+            "defaultValue": "noncompliant-win-apiapp1",
             "type": "String"
         },
         "noncompliant_devapp_serverfarms_svc2": {
