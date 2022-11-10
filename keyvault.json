@@ -12,7 +12,7 @@
       },
       "storageAccountName": {
         "type": "string",
-        "defaultValue": "strgnoncompliant3"
+        "defaultValue": "strgnoncomplianta"
       },
       "diagMonitorName1": {
         "type": "string",
